@@ -3,7 +3,7 @@
 @font-face {
 	font-family: 'UKIJ Basma Qara';
 	src: local("UKIJ Basma Qara"),
-        url('./fonts/UKIJBasma.ttf') format('truetype')
+        url('../fonts/UKIJBasma.ttf') format('truetype')
 }
 
 @font-face {
@@ -14,9 +14,13 @@
 
 p {
   font-family: "UKIJ Basma Qara", Times, serif;
-  font-size: '36';
+  font-size: '36px';
 }
 
+title {
+  font-family: "UKIJ Basma Qara"
+  align="right";
+}
 table {
   font-family: "UKIJ Basma Qara"
   border-collapse: collapse;
@@ -27,13 +31,13 @@ table {
 
 th,td {
   font-family: "UKIJ Basma Qara", Times, serif;
-  font-size: 36;
+  font-size: 36px;
   text-align: right;
   padding: 8px;
 }
 p.a {
-  font-family: "UKIJ Basma", Times, serif;
-  font-size: 36;
+  font-family: "UKIJ Basma";
+  font-size: 36px;
 }
 p.c {
   font-family: "UKIJ Kawak 3D", Times, serif;
