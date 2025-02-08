@@ -14,7 +14,9 @@
 
 p {
   font-family: "UKIJ Basma Qara", Times, serif;
-  font-size: '36px';
+  font-size: 24px;
+  direction: rtl;
+  text-align: right;
 }
 
 title {
@@ -30,9 +32,10 @@ table {
 
 
 th,td {
-  font-family: "UKIJ Basma Qara", Times, serif;
-  font-size: 36px;
+  font-family: "UKIJ Basma Qara";
+  font-size: 24px;
   text-align: right;
+  direction: rtl;
   padding: 8px;
 }
 p.a {
