@@ -22,12 +22,15 @@ p {
 title {
   font-family: "UKIJ Basma Qara"
   align="right";
+  direction: rtl;
+  padding: 0px;
 }
 table {
   font-family: "UKIJ Basma Qara"
   border-collapse: collapse;
   width: 100%;
   align="right";
+  direction: rtl;
 }
 
 
