@@ -12,6 +12,13 @@
         url('../fonts/UKIJKa3D.ttf') format('truetype')
 }
 
+@font-face {
+	font-family: 'UKIJ Tuz Gezit';
+	src: local("UKIJ Tuz Gezit"),
+        url('../fonts/UKIJTuzG.ttf') format('truetype')
+}
+
+
 p {
   font-family: "UKIJ Basma Qara", Times, serif;
   font-size: 24px;
@@ -28,7 +35,7 @@ table {
   font-family: "UKIJ Basma Qara"
   border-collapse: collapse;
   width: 100%;
-  align="right";
+  align="center";
   direction: rtl;
 }
 
@@ -36,20 +43,12 @@ table {
 th,td {
   font-family: "UKIJ Basma Qara";
   font-size: 24px;
-  text-align: right;
+  text-align: center;
   direction: rtl;
   padding: 0px;
 }
 p.a {
   font-family: "UKIJ Basma";
   font-size: 36px;
-}
-p.c {
-  font-family: "UKIJ Kawak 3D", Times, serif;
-  
-}
-
-p.b {
-  font-family: Arial, Helvetica, sans-serif;
 }
 
