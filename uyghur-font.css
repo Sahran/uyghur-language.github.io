@@ -19,11 +19,10 @@ p {
   text-align: right;
 }
 
-title {
+title{
   font-family: "UKIJ Basma Qara"
-  align="right";
+  align="center";
   direction: rtl;
-  padding: 0px;
 }
 table {
   font-family: "UKIJ Basma Qara"
