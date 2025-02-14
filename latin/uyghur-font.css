@@ -2,17 +2,17 @@
 
 
 p {
-  font-family: 'Arial', monospace;
-  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
   text-align: left;
 }
 
 title{
-  font-family: 'Arial', monospace;
+  font-family: "Times New Roman", Times, serif;
   align="center";
 }
 table {
-  font-family: 'Arial', monospace;
+  font-family: "Times New Roman", Times, serif;
   border-collapse: collapse;
   width: 100%;
   align="center";
@@ -20,13 +20,13 @@ table {
 
 
 th,td {
-  font-family: 'Arial', monospace;
-  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
   text-align: center;
   padding: 0px;
 }
 p.a {
-  font-family: 'Arial', monospace;
+  font-family: "Times New Roman", Times, serif;
   font-size: 18px;
 }
 
