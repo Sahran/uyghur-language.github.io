@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+
+p {
+  font-family: 'Arial', monospace;
+  font-size: 24px;
+  text-align: left;
+}
+
+title{
+  font-family: 'Arial', monospace;
+  align="center";
+}
+table {
+  font-family: 'Arial', monospace;
+  border-collapse: collapse;
+  width: 100%;
+  align="center";
+}
+
+
+th,td {
+  font-family: 'Arial', monospace;
+  font-size: 24px;
+  text-align: center;
+  padding: 0px;
+}
+p.a {
+  font-family: 'Arial', monospace;
+  font-size: 36px;
+}
+
