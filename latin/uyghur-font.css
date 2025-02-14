@@ -3,7 +3,7 @@
 
 p {
   font-family: 'Arial', monospace;
-  font-size: 24px;
+  font-size: 18px;
   text-align: left;
 }
 
@@ -21,12 +21,12 @@ table {
 
 th,td {
   font-family: 'Arial', monospace;
-  font-size: 24px;
+  font-size: 18px;
   text-align: center;
   padding: 0px;
 }
 p.a {
   font-family: 'Arial', monospace;
-  font-size: 36px;
+  font-size: 18px;
 }
 
