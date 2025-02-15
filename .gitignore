@@ -1,0 +1,15 @@
+**/.DS_Store
+**/a.out
+**/.metadata
+.DS_Store
+*~
+*.cmo
+*.cma
+*.cmi
+*.vo
+*.out
+*.vok
+*.vos
+*.aux
+*.glob
+*.byte
