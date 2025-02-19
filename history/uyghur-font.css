@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+@font-face {
+	font-family: 'UKIJ Basma Qara';
+	src: local("UKIJ Basma Qara"),
+        url('../fonts/UKIJBasma.ttf') format('truetype')
+}
+
+@font-face {
+	font-family: 'UKIJ Kawak 3D';
+	src: local("UKIJ Kawak 3D"),
+        url('../fonts/UKIJKa3D.ttf') format('truetype')
+}
+
+@font-face {
+	font-family: 'UKIJ Tuz Gezit';
+	src: local("UKIJ Tuz Gezit"),
+        url('../fonts/UKIJTuzG.ttf') format('truetype')
+}
+
+
+p {
+  font-family: "UKIJ Basma Qara", Times, serif;
+  font-size: 24px;
+  direction: rtl;
+  text-align: right;
+}
+
+title{
+  font-family: "UKIJ Basma Qara"
+  align="center";
+  direction: rtl;
+}
+table {
+  font-family: "UKIJ Basma Qara"
+  border-collapse: collapse;
+  width: 100%;
+  align="center";
+  direction: rtl;
+}
+
+
+th,td {
+  font-family: "UKIJ Basma Qara";
+  font-size: 24px;
+  text-align: center;
+  direction: rtl;
+  padding: 0px;
+}
+p.a {
+  font-family: "UKIJ Basma";
+  font-size: 36px;
+}
+
