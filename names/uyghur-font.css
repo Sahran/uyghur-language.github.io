@@ -3,19 +3,19 @@
 @font-face {
 	font-family: 'UKIJ Basma Qara';
 	src: local("UKIJ Basma Qara"),
-        url('./fonts/UKIJBasma.ttf') format('truetype')
+        url('../fonts/UKIJBasma.ttf') format('truetype')
 }
 
 @font-face {
 	font-family: 'UKIJ Kawak 3D';
 	src: local("UKIJ Kawak 3D"),
-        url('./fonts/UKIJKa3D.ttf') format('truetype')
+        url('../fonts/UKIJKa3D.ttf') format('truetype')
 }
 
 @font-face {
 	font-family: 'UKIJ Tuz Gezit';
 	src: local("UKIJ Tuz Gezit"),
-        url('./fonts/UKIJTuzG.ttf') format('truetype')
+        url('../fonts/UKIJTuzG.ttf') format('truetype')
 }
 
 
