@@ -1,7 +1,10 @@
 
 # Change Log
 
-### 2025-2
+### 2025-2-25
+- Added the words and audio for the letter G to the Uyghur dictionary
+
+### 2025-2-23
 - Added audio play button to the Uyghur explanatory dictionary Latin version 
 
 ### 2025-2
@@ -14,7 +17,12 @@
 
 
 ## ئۇيغۇرچە
-### 2025-02
+
+### 2025-2-25
+- گ ھەرىپىدىن باشلانغان سۆز ۋە ئاۋاز قوشۇلدى
+
+
+### 2025-02-23
 - ئىزاھلىق لۇغەتنىڭ لاتىنچىسىغا ئاۋاز قوشۇلدى
 
 ### 2025-02
