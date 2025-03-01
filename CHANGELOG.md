@@ -1,6 +1,10 @@
 
 # Change Log
 
+### 2025-03-01
+- Added the remaining letters
+- Uyghur explanatory dictionary now is complete
+
 ### 2025-2-25
 - Added the words and audio for the letter G to the Uyghur dictionary
 
@@ -17,6 +21,12 @@
 
 
 ## ئۇيغۇرچە
+
+
+### 2025-03-01
+- باشقا كەم ھەرپلەر قوشۇلدى. 
+- ئۇيغۇر تىلىنىڭ ئىزاھلىق لۇغىتى ۋە سۆزلۈكلەرنىڭ غالىپ نىياز ئوقۇغان ئاۋازنىڭ تولۇق نۇسخىسى پۈتتى
+
 
 ### 2025-2-25
 - گ ھەرىپىدىن باشلانغان سۆز ۋە ئاۋاز قوشۇلدى
