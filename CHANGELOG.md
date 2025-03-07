@@ -27,7 +27,7 @@
 
 
 ### 2025-03-07
-- ھۆججەتلىرى قوشۇلدى JSON ئۇيغۇر تىلىنىڭ ئىزاھلىق لۇغىتى  [https://github.com/uyghur-language/uyghur-dictionary](https://github.com/uyghur-language/uyghur-dictionary)
+-  ئۇيغۇر تىلىنىڭ ئىزاھلىق لۇغىتىنىڭ JSON ھۆججەتلىرى قوشۇلدى: [https://github.com/uyghur-language/uyghur-dictionary](https://github.com/uyghur-language/uyghur-dictionary)
 
 
 ### 2025-03-01
