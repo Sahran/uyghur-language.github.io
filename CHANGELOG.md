@@ -1,6 +1,9 @@
 
 # Change Log
 
+### 2025-03-07
+- Added the Uyghur explanatory dictionary data in JSON format [https://github.com/uyghur-language/uyghur-dictionary](https://github.com/uyghur-language/uyghur-dictionary)
+
 ### 2025-03-01
 - Added the remaining letters
 - Uyghur explanatory dictionary now is complete
@@ -21,6 +24,10 @@
 
 
 ## ئۇيغۇرچە
+
+
+### 2025-03-07
+- ھۆججەتلىرى قوشۇلدى JSON ئۇيغۇر تىلىنىڭ ئىزاھلىق لۇغىتى  [https://github.com/uyghur-language/uyghur-dictionary](https://github.com/uyghur-language/uyghur-dictionary)
 
 
 ### 2025-03-01
