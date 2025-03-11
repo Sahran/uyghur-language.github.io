@@ -1,0 +1,117 @@
+@charset "utf-8";
+
+@font-face {
+	font-family: 'UKIJ Basma Qara';
+	src: local("UKIJ Basma Qara"),
+        url('../fonts/UKIJBasma.ttf') format('truetype')
+}
+
+@font-face {
+	font-family: 'UKIJ Kawak 3D';
+	src: local("UKIJ Kawak 3D"),
+        url('../fonts/UKIJKa3D.ttf') format('truetype')
+}
+
+@font-face {
+	font-family: 'UKIJ Tuz Gezit';
+	src: local("UKIJ Tuz Gezit"),
+        url('../fonts/UKIJTuzG.ttf') format('truetype')
+}
+
+
+p {
+  font-family: "UKIJ Basma Qara", Times, serif;
+  font-size: 24px;
+  text-align: right;
+  direction: rtl;
+}
+
+title{
+  font-family: "UKIJ Basma Qara"
+  align="center";
+  direction: rtl;
+}
+table {
+  font-family: "UKIJ Basma Qara"
+  border-collapse: collapse;
+  width: 100%;
+  align=center;
+  direction: ltr;
+}
+
+
+th,td {
+  font-family: "UKIJ Basma Qara";
+  font-size: 24px;
+  ;text-align: left;
+  direction: ltr;
+  padding: 0px;
+}
+p.a {
+  font-family: 'UKIJ Tuz Gezit';
+  font-size: 18px;
+  direction: rtl;
+  text-align: right;
+  //color: blue;
+}
+
+p.b {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  font-size: 24px;
+  direction: ltr;
+  //color: red;
+}
+
+/*
+tbody td {
+  text-align: left;
+  direction: ltr;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #4C8BF5;
+  color: #fff;
+  direction: rtl;
+  text-align: right;
+}
+
+tr+.price-row {
+  background-color: green;
+}
+
+
+/*this will select every .price-row after the other .price-row */
+
+.price-row~.price-row {
+  background: blue
+}
+
+table tr.myrow:nth-child(even) {
+  background: blue;
+}
+
+table tr.myrow:nth-child(odd) {
+  background: #f8f8f8;
+}
+
+table tr.myrow:hover {
+  background-color: #ddd;
+}
+*/
+
+tr:nth-child(even) {
+  background: #CCC;
+  direction: ltr;
+  text-align: left;
+}
+tr:nth-child(odd) {
+  background: #FFF;
+  font-family: 'UKIJ Tuz Gezit';
+  direction: rtl;
+  text-align: right;
+}
+
+/*col::nth-child(even) {background: #FF0}
+col::nth-child(odd)  {background: #CCC}
+*/
