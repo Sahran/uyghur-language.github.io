@@ -1,6 +1,8 @@
 
 # Change Log
 
+### 2025-03-17
+- Added the [Uyghur Synonyms](https://github.com/uyghur-language/uyghur-synonyms)
 
 ### 2025-03-11
 - Added the [English Uyghur Dictionary](https://github.com/uyghur-language/english-uyghur)
@@ -28,6 +30,9 @@
 
 
 ## ئۇيغۇرچە
+
+### 2025-03-17
+- قوشۇلدى [ئۇيغۇر تىلىدىكى مەنىداش سۆزلەر](https://github.com/uyghur-language/uyghur-synonyms)
 
 ### 2025-03-11
 - [ئىنگلىزچە-ئۇيغۇرچە لۇغەت] قوشۇلدى (https://github.com/uyghur-language/english-uyghur)
